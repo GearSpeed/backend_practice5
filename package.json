@@ -1,0 +1,22 @@
+{
+  "name": "practica5",
+  "version": "0.0.1",
+  "description": "practice 5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/GearSpeed/backend_practice5.git"
+  },
+  "author": "GearSpeed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GearSpeed/backend_practice5/issues"
+  },
+  "homepage": "https://github.com/GearSpeed/backend_practice5#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
